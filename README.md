@@ -9,4 +9,4 @@ A repository to store efficient JAVA Program codes.
 * If you have the ability then make the already existing codes simpler and efficient.
 * You're also free to add new programs.
 * Read the CONTRIBUTING.md and README.md located in sub folders before submitting the PR.
-### Happy Coding 😃
+### Happy Coding 🥳
