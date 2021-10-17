@@ -1,4 +1,4 @@
-class ArrayAdd
+class MatrixAdd
 {
 public static void main(String args[])
 {
